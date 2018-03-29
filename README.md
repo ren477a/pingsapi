@@ -1,9 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Source Code can be found [here](https://github.com/alcren/pingsapi)
 
-To run the app please do the following:
+The app is deployed on heroku. You may use this base url https://pingsapi.herokuapp.com
+Note: Due to dyno sleeping in heroku app may respond longer on your first request.
+
+If you wish to run locally do the following:
 
 * Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 Version used `ruby 2.5.0p0`
@@ -19,7 +21,7 @@ Version used `Rails 5.1.5`
   * Password: ren
 
 
-* Inside the folder pingsapi run `bundle install`
+* In the directory pingsapi run `bundle install`
 
 * Migrate database by running `rake db:migrate`
 
