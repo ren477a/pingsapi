@@ -19,7 +19,7 @@ Version used `Rails 5.1.5`
   * Password: ren
 
 
-* Inside the folder pingsapi run `gem install`
+* Inside the folder pingsapi run `bundle install`
 
 * Migrate database by running `rake db:migrate`
 
