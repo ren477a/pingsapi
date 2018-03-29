@@ -4,7 +4,7 @@ Source Code can be found [here](https://github.com/alcren/pingsapi)
 
 The app is deployed on heroku. You may use this base url https://pingsapi.herokuapp.com
 
-Note: Due to dyno sleeping in heroku app may respond longer on your first request.
+Note: Due to dyno sleeping in heroku, app may respond longer on your first request.
 
 If you wish to run locally do the following:
 
