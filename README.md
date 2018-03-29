@@ -3,6 +3,7 @@
 Source Code can be found [here](https://github.com/alcren/pingsapi)
 
 The app is deployed on heroku. You may use this base url https://pingsapi.herokuapp.com
+
 Note: Due to dyno sleeping in heroku app may respond longer on your first request.
 
 If you wish to run locally do the following:
@@ -28,3 +29,5 @@ Version used `Rails 5.1.5`
 * Start the server by running `rails s`
 
 * The api will be running at http://0.0.0.0:3000
+
+Note: pings.rb is in /todo
