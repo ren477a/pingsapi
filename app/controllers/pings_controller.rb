@@ -125,7 +125,3 @@ class PingsController < ApplicationController
     render json: {}
   end
 end
-
-# [["epoch_time", "2016-03-28 20:59:56"], 
-# ["epoch_time", "2016-03-28 22:04:56"], 
-# ["device_id", "5225a416-3394-4e9f-9d97-e371d7615197"]]
